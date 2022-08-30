@@ -1,18 +1,27 @@
 "use strict";
+// let num = 20;
+// function showFirstMessage(text){
+//     console.log(text);
+    
+//     console.log(num);
+// }
+// showFirstMessage('hello world');
+// console.log(num);
 
-console.log(4 + +"5");
+// function calc(a,b){
+//     return (a + b);
+// }
+// console.log(calc(4,3));
 
-let incr = 10,
-    decr = 10;
+// const logger = function(){
+//     console.log('hello');
+// };
+// logger();
 
-    // ++incr;
-    // --decr;
-console.log(++incr);
-console.log(--decr);
+const calc = (a,b) => {
+    
+} ;
 
-console.log(5%2);
 
-const isChecked = true,
-    isClose = false;
 
-console.log(isChecked || isClose);
+
